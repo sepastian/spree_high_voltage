@@ -36,4 +36,4 @@ Simply add this require statement to your spec_helper:
 require 'spree_high_voltage/factories'
 ```
 
-Copyright (c) 2014 [name of extension creator], released under the New BSD License
+Copyright (c) 2014 Sebastian Gassner, released under the New BSD License
